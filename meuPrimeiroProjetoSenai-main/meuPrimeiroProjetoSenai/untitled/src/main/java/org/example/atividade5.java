@@ -19,7 +19,7 @@ public class atividade5 {
                 System.out.println("Quarta ");
                 break;
             case 4:
-                System.out.println("Quinta ");
+                System.out.println("Quinta  ");
                 break;
             case 5:
                 System.out.println("Sexta ");

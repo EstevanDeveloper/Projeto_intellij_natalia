@@ -7,7 +7,7 @@ class Main3_1 {
 
         System.out.print("Primeira nota: ");
         int n1 = entrada.nextInt();
-        System.out.print("Segunda nota: ");
+        System.out.print("Segunda nota:");
         int n2 = entrada.nextInt();
         System.out.print("Terceira nota: ");
         int n3 = entrada.nextInt();

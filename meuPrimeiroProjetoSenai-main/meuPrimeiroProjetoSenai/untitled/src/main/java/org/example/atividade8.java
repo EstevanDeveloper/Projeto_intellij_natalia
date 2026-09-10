@@ -10,7 +10,7 @@ class Main8 {
         if (resposta.equalsIgnoreCase("SIM")) {
             System.out.println("Possui auxílio disponível.");
         } else {
-            System.out.println("Não possui auxílio.");
+            System.out.println("Não possui auxílio. ");
         }
 
         entrada.close();

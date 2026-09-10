@@ -5,6 +5,6 @@ class Main1_2 {
         int varInt = (int) varDouble;
 
         System.out.println("valor double: " + varDouble);
-        System.out.println("valor int: " + varInt);
+        System.out.println("valor int:" + varInt);
     }
 }

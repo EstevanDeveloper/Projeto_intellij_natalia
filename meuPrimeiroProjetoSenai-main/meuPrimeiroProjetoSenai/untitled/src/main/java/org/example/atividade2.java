@@ -9,7 +9,7 @@ public class atividade2 {
         nota = sc.nextDouble();
 
         if (nota >= 7) {
-            System.out.println("aprovado");
+            System.out.println(" ");
         } else {
             System.out.println("reprovado");
         }

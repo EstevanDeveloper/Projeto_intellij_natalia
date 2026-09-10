@@ -12,7 +12,7 @@ public class atividade4 {
             System.out.println("nota EXCELENTE! " );
         }
         else if (n1 >= 7) {
-            System.out.println("nota BOA! " );
+            System.out.println("nota BOA!  " );
         }
         else if (n1 >= 5) {
             System.out.println("nota REGULAR! " );

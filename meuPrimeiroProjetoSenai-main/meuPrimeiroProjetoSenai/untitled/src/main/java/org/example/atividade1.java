@@ -9,7 +9,7 @@ public class atividade1 {
         idade = sc.nextInt();
 
         if (idade >= 18) {
-            System.out.println("Tu é maior de idade ");
+            System.out.println("Tu é maior de idade");
         } else {
             System.out.println("Tu é menor de idade ");
         }

@@ -12,7 +12,7 @@ class Main6 {
         if (salario <= 4000) {
             System.out.println("Possui direito ao vale refeição.");
         } else {
-            System.out.println("Não possui direito ao vale refeição.");
+            System.out.println("Não possui direito ao vale refeição. ");
         }
 
         entrada.close();

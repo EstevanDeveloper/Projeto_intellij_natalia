@@ -6,7 +6,7 @@ class Main1_4 {
         byte varByte = (byte) varInt;
 
         System.out.println("Valor Short: " + varShort);
-        System.out.println("Valor Int: " + varInt);
+        System.out.println("Valor Int:" + varInt);
         System.out.println("Valor Byte: " + varByte);
     }
 }

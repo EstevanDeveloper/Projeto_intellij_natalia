@@ -6,6 +6,6 @@ class Main2_2 {
         boolean matar = true;
 
         boolean resultado = nota && freq && !matar;
-        System.out.println("Resultado: " + resultado);
+        System.out.println("Resultado:" + resultado);
     }
 }

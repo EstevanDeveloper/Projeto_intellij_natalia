@@ -9,7 +9,7 @@ public class Main {
         if(tempoContratacao >= 3){
             System.out.println("Adesão ao plano de Saúde Disponível");
         } else {
-            System.out.println("Adesão ao plano de Saúde Não Disponível");
+            System.out.println("Adesão ao plano de Saúde Não Disponível ");
         }
     }
 }

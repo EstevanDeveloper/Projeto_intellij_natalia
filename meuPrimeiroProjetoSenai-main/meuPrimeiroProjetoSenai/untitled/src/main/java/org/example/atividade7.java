@@ -8,9 +8,9 @@ class Main7 {
         int tempoEmpresa = entrada.nextInt();
 
         if (tempoEmpresa > 3) {
-            System.out.println("O plano de saúde está disponível.");
+            System.out.println("O plano de saúde está disponível. ");
         } else {
-            System.out.println("O plano de saúde não está disponível.");
+            System.out.println("O plano de saúde não está disponível. ");
         }
 
         entrada.close();

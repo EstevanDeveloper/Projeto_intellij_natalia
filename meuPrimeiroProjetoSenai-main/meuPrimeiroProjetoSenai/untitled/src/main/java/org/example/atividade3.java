@@ -11,7 +11,7 @@ public class atividade3 {
         n2 = sc.nextInt();
 
         if (n1 > n2) {
-            System.out.println("o maior número é: " + n1);
+            System.out.println("o maior número é:  " + n1);
         } else {
             System.out.println("o maior número é: " +n2);
         }

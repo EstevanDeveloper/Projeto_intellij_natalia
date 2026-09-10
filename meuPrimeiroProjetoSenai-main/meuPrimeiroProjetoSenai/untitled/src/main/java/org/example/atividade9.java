@@ -10,7 +10,7 @@ class Main9 {
         if (cargo.equalsIgnoreCase("administrativo") || cargo.equalsIgnoreCase("liderança")) {
             System.out.println("Pode participar do programa de idiomas.");
         } else {
-            System.out.println("Não pode participar do programa de idiomas.");
+            System.out.println("Não pode participar do programa de idiomas. ");
         }
 
         entrada.close();
