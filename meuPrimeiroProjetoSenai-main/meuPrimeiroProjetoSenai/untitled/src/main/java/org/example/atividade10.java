@@ -12,7 +12,7 @@ class Main10 {
         double parcela = entrada.nextDouble();
 
         if (parcela <= salario * 0.30) {
-            System.out.println("Empréstimo aprovado. ");
+            System.out.println("Empréstimo aprovado.");
         } else {
             System.out.println("Empréstimo recusado.");
         }
