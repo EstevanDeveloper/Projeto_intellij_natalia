@@ -9,6 +9,6 @@ class Main1_1 {
         int valorInt = 56;
         double valorDouble = valorInt;
 
-        System.out.println("O valor é" + valorDouble);
+        System.out.println("O valor é " + valorDouble);
     }
 }
