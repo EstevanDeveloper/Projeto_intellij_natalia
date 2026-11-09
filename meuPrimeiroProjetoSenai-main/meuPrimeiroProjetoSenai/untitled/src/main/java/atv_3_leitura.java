@@ -22,8 +22,8 @@ public static void main(String[] args) throws IOException {
 
             String criticidade;
 
-            if(so.contains("Linux")){
-                escritor.write(host + "," + ip + "," + so + "\n");
+            if(so.contains("Windows")){
+                escritor.write( ip + "," + so + "\n");
             }
 
 
